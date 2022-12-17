@@ -1,4 +1,4 @@
-export default {
+const facts = {
   1: 'Shiba Inu is an ancient breed',
   2: 'Shiba Inus were bred to be versatile hunters',
   3: 'Shiba Inus almost became extinct',
@@ -12,3 +12,5 @@ export default {
   11: 'This is one of the most popular breeds in Japan',
   12: 'There used to be three kinds of Shibas',
 };
+
+export default facts;
