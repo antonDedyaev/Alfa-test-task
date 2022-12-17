@@ -7,5 +7,8 @@ start:
 build:
 	npm run build
 
+serve:
+	serve -s build
+
 lint:
 	npx eslint .
