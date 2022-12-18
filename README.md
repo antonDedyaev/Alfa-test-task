@@ -1,6 +1,6 @@
 # Shiba-gram
 
-This is is a simple React-based SPA that I've created to apply for Frontend trainee position at Alfa-bank.
+This is a simple React-based SPA that I've created to apply for Frontend trainee position at Alfa-bank.
 
 ## Check the deployed app at:
 
